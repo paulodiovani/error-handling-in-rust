@@ -1,5 +1,5 @@
 [package]
-name = "error-handling-in-rust-brownbag"
+name = "error-handling-in-rust"
 version = "0.1.0"
 edition = "2021"
 
