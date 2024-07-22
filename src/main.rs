@@ -1,3 +1,4 @@
+#[allow(dead_code)]
 mod file_contents {
     use std::{
         fmt::Display,
